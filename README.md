@@ -10,7 +10,7 @@ Custom integration to display your campus dining hall menu in Home Assistant, us
 - Auto-refresh every 5 minutes
 
 ## Installation
-1. Add this repository to HACS (Custom Repository → `https://github.com/YOURUSERNAME/dineoncampus-ha`)
+1. Add this repository to HACS (Custom Repository → `https://github.com/quacksire/dineoncampus-ha`)
 2. Restart Home Assistant
 3. Add the integration via Settings → Devices & Services → Add Integration → **Dine On Campus Menu**
 

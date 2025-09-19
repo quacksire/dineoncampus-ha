@@ -23,7 +23,8 @@
     },
     "error": {
       "cannot_connect": "Could not connect to the DineOnCampus API",
-      "unknown": "An unknown error occurred", "invalid_time_window": "At least one period must have a valid time window (start time before end time)"
+      "unknown": "An unknown error occurred", 
+      "invalid_time_window": "At least one period must have a valid time window (start time before end time)"
     },
     "data": {
       "mode": "Menu Mode",
