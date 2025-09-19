@@ -1,4 +1,5 @@
 # Dine On Campus Menu for Home Assistant
+[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=quacksire&repository=dineoncampus-ha&category=integration)
 
 Custom integration to display your campus dining hall menu in Home Assistant, using the [DineOnCampus API](https://apiv4.dineoncampus.com/sites/public).
 
