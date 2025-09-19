@@ -1,0 +1,39 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Select Your School",
+        "description": "Choose your school from the list."
+      },
+      "location": {
+        "title": "Select Dining Location",
+        "description": "Choose the dining hall or restaurant."
+      },
+      "dynamic_or_static": {
+        "title": "How should the menu be chosen?",
+        "description": "Pick whether this sensor should always show the active menu for today (Dynamic) or stay fixed to one period (Static)."
+      },
+      "period": {
+        "title": "Select Period",
+        "description": "Choose a specific period if you selected Static."
+      }
+    },
+    "abort": {
+      "already_configured": "This dining hall is already configured."
+    },
+    "error": {
+      "cannot_connect": "Could not connect to the DineOnCampus API",
+      "unknown": "An unknown error occurred", "invalid_time_window": "At least one period must have a valid time window (start time before end time)"
+    },
+    "data": {
+      "mode": "Menu Mode",
+      "period": "Period",
+      "school": "School",
+      "location": "Location"
+    },
+    "options": {
+      "dynamic": "Dynamic — show the current menu automatically (Breakfast, Lunch, or Dinner)",
+      "static": "Static — lock to a specific period you select"
+    }
+  }
+}

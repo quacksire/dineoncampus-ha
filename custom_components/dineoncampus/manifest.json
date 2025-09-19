@@ -1,0 +1,11 @@
+{
+  "domain": "dineoncampus",
+  "name": "Dine On Campus Menu",
+  "version": "1.0.0",
+  "documentation": "https://github.com/quacksire/dineoncampus-ha",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": ["@quacksire"],
+  "iot_class": "cloud_polling",
+  "config_flow": true
+}
